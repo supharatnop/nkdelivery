@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "335139560833",
+    "project_id": "nkdeliveryman",
+    "storage_bucket": "nkdeliveryman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335139560833:android:75dc1f495e4abac39adc80",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.nkdeliveryman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335139560833-30hv51ducd2nf9fer8sm64agra6v8110.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8DbpexHV8u5uRRigfbqRTXF8tcOV7hN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335139560833-30hv51ducd2nf9fer8sm64agra6v8110.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335139560833:android:82ef33b57bd9bef99adc80",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.nkdeliverytoei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335139560833-30hv51ducd2nf9fer8sm64agra6v8110.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8DbpexHV8u5uRRigfbqRTXF8tcOV7hN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335139560833-30hv51ducd2nf9fer8sm64agra6v8110.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335139560833:android:31ee831362249f099adc80",
+        "android_client_info": {
+          "package_name": "com.flutterthailand.nongkhaidelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335139560833-30hv51ducd2nf9fer8sm64agra6v8110.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8DbpexHV8u5uRRigfbqRTXF8tcOV7hN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335139560833-30hv51ducd2nf9fer8sm64agra6v8110.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
